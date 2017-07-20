@@ -29,7 +29,7 @@ h3 {
 	margin-top:30px;
 }
 
-html{
+*{
 	background: url(images/olivier-martel-savoie-259468.jpg) no-repeat center center fixed;
 	background-size: cover;
 	-moz-background:cover;
